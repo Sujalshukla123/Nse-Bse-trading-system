@@ -1,0 +1,8 @@
+{
+  "name": "Remix NSE/BSE Technical Analysis \u0026 Risk Manager",
+  "description": "Expert Indian Equity Market technical analysis, multi-timeframe conformation, Fibonacci mapping, RSI divergences, and position sizing risk engine powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
